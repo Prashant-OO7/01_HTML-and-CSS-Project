@@ -167,7 +167,7 @@ body {
     .container .buttons button {
         padding: 8px 12px;
         font-size: 14px;
-        margin: 10px 12px;
+        margin: 10px;
     }
 
     .container .analytics .data {
